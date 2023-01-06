@@ -4,7 +4,6 @@ using System.Reflection;
 int tries = 6;
 string cheatCode = "zzyzx";
 Console.WriteLine("Welcome to Word Guess, the same rules for Wordle apply here (no letters in wrong place (we will not tell you if it is part of it), etc.)");
-Console.WriteLine("Made by Natey hecht | Github: N-coder82 | Dev.to: @satoshi");
 Thread.Sleep(2000);
 Console.Clear();
 Console.WriteLine("Ready to play!");
