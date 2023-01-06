@@ -33,18 +33,6 @@ while (tries > 0 && isStillPlaying)
     }
     else
     {
-      /* foreach (char ch in answerWord)
-        {
-            if (IsLetterInString(userInput, ch.ToString()))
-            {
-                wordOutput += ch.ToString();
-            }
-            else
-            {
-                wordOutput += "_";
-                isStillPlaying = true;
-            }
-        }*/
         for (int i = 0; i < 5; i++)
         {
             char currentInput = userInput[i];
