@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h1BVTquvrxgFo2LZSiev+XW+ixtIwglinp4bzSNN9hRBJapImBSVdNpUP0OYUp41UjHg4bL2H66s8AGZPlb3Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natey\\OneDrive\\Documents\\Programming\\C#\\Hangman1\\Hangman1\\Hangman1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natey\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.11\\microsoft.netcore.app.runtime.win-x86.6.0.11.nupkg.sha512",
+    "C:\\Users\\natey\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.11\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.11.nupkg.sha512",
+    "C:\\Users\\natey\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.11\\microsoft.aspnetcore.app.runtime.win-x86.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

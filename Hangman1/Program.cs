@@ -106,4 +106,3 @@ void GoodChanceShutDown()
     Console.ReadKey();
     Environment.Exit(0);
 }
-
