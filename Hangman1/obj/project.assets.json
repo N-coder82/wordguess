@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natey\\OneDrive\\Documents\\Programming\\C#\\Hangman1\\Hangman1\\Hangman1.csproj",
-      "projectName": "Hangman1",
-      "projectPath": "C:\\Users\\natey\\OneDrive\\Documents\\Programming\\C#\\Hangman1\\Hangman1\\Hangman1.csproj",
+      "projectUniqueName": "C:\\Users\\natey\\OneDrive\\Documents\\Programming\\C#\\Hangman1\\Hangman1\\Word Guess.csproj",
+      "projectName": "Word Guess",
+      "projectPath": "C:\\Users\\natey\\OneDrive\\Documents\\Programming\\C#\\Hangman1\\Hangman1\\Word Guess.csproj",
       "packagesPath": "C:\\Users\\natey\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\natey\\OneDrive\\Documents\\Programming\\C#\\Hangman1\\Hangman1\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
-C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Hangman1.exe
-C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Hangman1.dll
-C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Hangman1.deps.json
-C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Hangman1.runtimeconfig.json
-C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Hangman1.pdb
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Word Guess.exe
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Word Guess.dll
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Word Guess.deps.json
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Word Guess.runtimeconfig.json
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Word Guess.pdb
 C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Microsoft.CSharp.dll
 C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Microsoft.VisualBasic.Core.dll
 C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\publish\win-x86\Microsoft.VisualBasic.dll

@@ -1,0 +1,15 @@
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\Word Guess.exe
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\Word Guess.deps.json
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\Word Guess.runtimeconfig.json
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\Word Guess.dll
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\bin\Release\net6.0\Word Guess.pdb
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\obj\Release\net6.0\Word Guess.csproj.AssemblyReference.cache
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\obj\Release\net6.0\Word Guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\obj\Release\net6.0\Word Guess.AssemblyInfoInputs.cache
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\obj\Release\net6.0\Word Guess.AssemblyInfo.cs
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\obj\Release\net6.0\Word Guess.csproj.CoreCompileInputs.cache
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\obj\Release\net6.0\Word Guess.dll
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\obj\Release\net6.0\refint\Word Guess.dll
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\obj\Release\net6.0\Word Guess.pdb
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\obj\Release\net6.0\Word Guess.genruntimeconfig.cache
+C:\Users\natey\OneDrive\Documents\Programming\C#\Hangman1\Hangman1\obj\Release\net6.0\ref\Word Guess.dll

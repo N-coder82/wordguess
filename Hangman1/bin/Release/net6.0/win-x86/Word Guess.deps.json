@@ -7,12 +7,12 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {},
     ".NETCoreApp,Version=v6.0/win-x86": {
-      "Hangman1/1.0.0": {
+      "Word Guess/1.0.0": {
         "dependencies": {
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x86": "6.0.11"
         },
         "runtime": {
-          "Hangman1.dll": {}
+          "Word Guess.dll": {}
         }
       },
       "runtimepack.Microsoft.NETCore.App.Runtime.win-x86/6.0.11": {
@@ -858,7 +858,7 @@
     }
   },
   "libraries": {
-    "Hangman1/1.0.0": {
+    "Word Guess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
