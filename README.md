@@ -1,1 +1,3 @@
-# Hangman1
+# Word Guess
+
+An offine console alterative to Wordle.
