@@ -16,7 +16,6 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/N-coder82/wordguess/total) ![Contributors](https://img.shields.io/github/contributors/N-coder82/wordguess?color=dark-green) ![Issues](https://img.shields.io/github/issues/N-coder82/wordguess) 
 
 ## Table Of Contents
 
