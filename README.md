@@ -28,7 +28,6 @@
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [Authors](#authors)
 
 ## About The Project
 
@@ -38,7 +37,6 @@ Welcome to Word Guess. This is a game, which lets you play a guessing game simil
 
 This game was built with C#, in Visual Studio.
 
-* []()
 
 ## Getting Started
 
@@ -78,7 +76,3 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## Authors
-
-* **N-coder82** - *I am a programmer that has been coding for about 2 years.* - [N-coder82](1folio.web.app) - *Founder*
