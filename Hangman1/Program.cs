@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 using System.Reflection;
-
+Console.WriteLine("        _=====_                               _=====_\r\n       / _____ \\                             / _____ \\\r\n     +.-'_____'-.---------------------------.-'_____'-.+\r\n    /   |     |  '.        S O N Y        .'  |  _  |   \\\r\n   / ___| /|\\ |___ \\                     / ___| /_\\ |___ \\\r\n  / |      |      | ;  __           _   ; | _         _ | ;\r\n  | | <---   ---> | | |__|         |_:> | ||_|       (_)| |\r\n  | |___   |   ___| ;SELECT       START ; |___       ___| ;\r\n  |\\    | \\|/ |    /  _     ___      _   \\    | (X) |    /|\r\n  | \\   |_____|  .','\" \"', |___|  ,'\" \"', '.  |_____|  .' |\r\n  |  '-.______.-' /       \\ANALOG/       \\  '-._____.-'   |\r\n  |               |       |------|       |                |\r\n  |              /\\       /      \\       /\\               |\r\n  |             /  '.___.'        '.___.'  \\              |\r\n  |            /                            \\             |\r\n   \\          /                              \\           /\r\n    \\________/                                \\_________/\r\n                      PS2 CONTROLLER\r\n\r\n------------------------------------------------\r\n");
 int tries = 6;
 string cheatCode = "zzyzx";
 Console.WriteLine("Welcome to Word Guess, the same rules for Wordle apply here (no letters in wrong place (we will not tell you if it is part of it), etc.)");
@@ -70,14 +70,15 @@ while (tries > 0 && isStillPlaying)
     }
 }
 
-static void ShutDown()
+void ShutDown()
 {
     Console.WriteLine("Press any key to exit, You have run out of chances.");
+    Console.WriteLine($"Thanks for playing, the word was {answerWord}!");
     Console.ReadKey();
     Environment.Exit(0);
 }
 
-static bool IsLetterInString(string word, string letter)
+bool IsLetterInString(string word, string letter)
 {
     foreach (char ch in word)
     {
