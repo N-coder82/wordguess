@@ -1,4 +1,4 @@
-# This repo is no longer being maintained!
+# There are no new versions of this repo but it is bug-free (mostly) and works well!
 
 
 
